@@ -1,4 +1,4 @@
-# antd-theme-kaola
+# antd-theme-kaola [![NPM version][npm-image]][npm-url]
 Ant design theme for Kaola
 
 ## Color
@@ -19,3 +19,9 @@ Ant design theme for Kaola
  - `cd ant-design`
  - Add `"theme": "../theme.js",` in `package.json`
  - `npm i && npm start`
+
+## LICENSE
+MIT
+
+[npm-url]: https://npmjs.org/package/antd-theme-kaola
+[npm-image]: https://img.shields.io/npm/v/antd-theme-kaola.svg

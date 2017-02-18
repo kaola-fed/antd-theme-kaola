@@ -1,6 +1,6 @@
 {
   "name": "antd-theme-kaola",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ant design theme for Kaola",
   "main": "theme.js",
   "repository": {

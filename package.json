@@ -1,0 +1,21 @@
+{
+  "name": "antd-theme-kaola",
+  "version": "1.0.0",
+  "description": "Ant design theme for Kaola",
+  "main": "theme.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaola-fed/antd-theme-kaola.git"
+  },
+  "keywords": [
+    "antd",
+    "theme",
+    "kaola"
+  ],
+  "author": "Cody Chan <int64ago@gmail.com> (https://int64ago.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaola-fed/antd-theme-kaola/issues"
+  },
+  "homepage": "https://github.com/kaola-fed/antd-theme-kaola#readme"
+}
